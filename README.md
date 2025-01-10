@@ -26,10 +26,9 @@
 ## 🚀 Getting Started
 
 **1. Prerequisites**
-- Python 3.8 or later
-- Required Python libraries:
--- pip install pygame neat-python
--- pip install pygame
+Python 3.8 or later and Python libraries
+- pip install pygame neat-python
+- pip install pygame
 **2. Clone the Repository**
 - git clone https://github.com/bkrkhub/DinoAI.git
 - cd DinoAI
