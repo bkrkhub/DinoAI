@@ -22,7 +22,7 @@
 
 ## 📸 In-game Video
 
-(Add gameplay video or screenshots here)
+https://github.com/user-attachments/assets/c56ac1eb-9461-4466-bae6-7685b6e39e4b
 
 ## 🚀 Getting Started
 
